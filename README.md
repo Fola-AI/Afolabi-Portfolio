@@ -4,7 +4,7 @@ Personal portfolio site for **Afolabi Ajao**, a Copilot Studio, Power Platform a
 
 The site is a single, self-contained `index.html`: no build step, no dependencies, no framework. The headshot is embedded directly in the file as a base64 image, so the whole portfolio is one file you can host anywhere.
 
-> **Live site:** https://afolabi-portfolio.vercel.app  <!-- update this to your real Vercel URL once deployed -->
+> **Live site:** https://afolabi-portfolio-omega.vercel.app  <!-- update this to your real Vercel URL once deployed -->
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Fola-AI/Afolabi-Portfolio)
 
